@@ -1,12 +1,43 @@
 ---
 layout: page
-title: About
-lang: en
+title: 關於我們
+lang: zh-tw
 permalink: /about/
+translation_id: 7c2de83c2a9e6359be25ecf4fe63ff83
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+TWVAL是台灣電子煙促進協會
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+TWVAL成立於2015年，是由一群台灣電子煙使用者所組成的一只宣導團體，旨在傳遞更正確的電子煙相關知識，並且盡可能的保護更多台灣電子煙使用者的權利。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+TWVAL的存在，更是為了回應並抵制民間反菸團體不斷醜化電子煙產品的行為，而我們的成員數量也足夠說明本團體是具有一定公信力的。
+
+在此重申TWVAL非營利組織。
+
+TWVAL的每一位成員都是志願者，我們沒有得到任何的金錢補助或相關利益。
+
+TWVAL的確收到了許多來自各界的捐款，但我們與電子煙業者，煙草商或製藥商絕沒有財務上的往來及簽署任何協議。
+
+TWVAL是以一個網站的型態存在著，我們提供電子煙使用者及眾多台灣人民一個更便捷且客觀的管道，能閱讀有關於電子煙的相關報導，科學研究報告和學術資料，及更多國家對於電子煙的相關法律規範。
+
+我們正與其他團體甚至是全球性組織一起共同努力著，[如電子蒸氣之聲協會(SFATA)][2]，[台灣電子煙公會(A.V.A)][3]，[無菸替代品協會(CASAA)][5]和[台灣電子煙團結聯盟][6]。
+
+TWVAL存在的目的，在於透過每一位成員及各大團體的努力，提高電子煙在台合法的可能性，我們致力於蒐集電子煙相較於紙菸是屬較低傷害的報導，且客觀發放關於電子煙正面和負面的資料，透過網路媒體的影響力，爭取在台立法規範的機會。
+
+TWVAL所募集的資金用於促進這些活動的推動，並贊助更多相關的研究工作。
+
+我們設計開發並製造各種印刷品，如推廣電子煙的名片，小型貼紙，汽車貼紙，T恤及提供給各大供應商的宣導資料。
+
+TWVAL與電子煙商不同的地方是，我們的目的只在於讓消費者及民眾了解更多關於電子煙和無菸替代品的相關資訊。
+
+TWVAL在電子煙論壇，[Facebook][10]和[Twitter][11]上皆有帳號提供讀者挖掘知識的管道。在臉書上更有[TWVAL][12]社團提供資訊交流及討論。
+
+[1]: http://moveorganization.org
+[2]: http://sfata.org/
+[3]: http://vaping.info/
+[4]: https://www.facebook.com/TWVAS
+[5]: http://www.casaa.org/
+[6]: https://www.facebook.com/pages/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%AD%90%E7%85%99%E5%9C%98%E7%B5%90%E8%81%AF%E7%9B%9F/791530254263828?fref=nf
+[10]: https://www.facebook.com/twval
+[11]: https://twitter.com/TaiwanVapeAL
+[12]: https://www.facebook.com/groups/434786276623765/
