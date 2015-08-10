@@ -26,3 +26,8 @@ linkblog:
   titlecase: false
   unorphan: false
   permalink_label: Permalink
+
+language_names:
+  en: English
+  tw: 正體中文
+lang: en
