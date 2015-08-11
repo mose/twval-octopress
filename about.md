@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 關於我們
-lang: zh-tw
+lang: tw
 permalink: /about/
 translation_id: 7c2de83c2a9e6359be25ecf4fe63ff83
 ---
