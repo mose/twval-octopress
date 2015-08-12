@@ -65,6 +65,6 @@ Does it really matter what their motive is? Every company produces products in o
 Think of it this way. If you continue to smoke because you dislike the tobacco industry profiting from selling smokeless tobacco, you are still giving them your money AND you are damaging your health.
 
 
-References
+## References
 
 Tilashalski K, Rodu B, & Cole P. 2005. Seven year follow-up of smoking cessation with smokeless tobacco. Journal of Psychoactive Drugs 37: 105-108.Abstract.
