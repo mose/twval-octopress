@@ -205,7 +205,6 @@
   h2 {
     font-size: 20px;
     border-bottom: 2px dotted #ddd;
-
     @include media-query($on-laptop) {
       font-size: 16px;
     }
@@ -213,7 +212,6 @@
 
   h3 {
     font-size: 16px;
-
     @include media-query($on-laptop) {
       font-size: 14px;
     }
@@ -221,7 +219,6 @@
 
   h4 {
     font-size: 12px;
-
     @include media-query($on-laptop) {
       font-size: 10px;
     }

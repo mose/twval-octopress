@@ -5,7 +5,13 @@ layout: default
 
   <header class="post-header">
     <div class="translation">
-      {% translations page %}
+      {% if page.translated %}
+        {% for t in page.translations %}
+        {% if t.lang != page.lang %}
+        <a href="{{ t.url }}">{{ t.lang | language_name }}</a>
+        {% endif %}
+        {% endfor %}
+      {% endif %}
     </div>
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
