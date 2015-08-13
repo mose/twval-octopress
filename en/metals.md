@@ -21,10 +21,5 @@ The average daily exposure from 13 EC products was 2.6 to 387 times lower than t
 
 Significant differences in emissions between products were observed. Conclusions: Based on currently available data, overall exposure to metals from EC use is not expected to be of significant health concern for smokers switching to EC use, but is an unnecessary source of exposure for never-smokers. Metal analysis should be expanded to more products and exposure can be further reduced through improvements in product quality and appropriate choice of materials.
 
-Keywords
-electronic cigarettes;
-smoking;
-metals;
-aerosol;
-risk assessment;
-inhalation
+### Source
+- [[http://www.mdpi.com/1660-4601/12/5/5215]]
