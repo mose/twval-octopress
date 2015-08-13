@@ -21,7 +21,44 @@
     color: $grey-color-dark;
   }
 }
+.site-menu {
+  position: relative;
+  display: inline-block;
+  height: 100%;
+  float: left;
+  width: 150px;
+  margin-top: -30px;
+  padding-top: 20px;
+  border-right: 2px dotted #ccc;
 
+  .title {
+    text-align: center;
+  }
+
+  ul {
+    margin: 20px 0;
+    padding: 0;
+    list-style: none;
+    li {
+      a {
+        display: block;
+        padding: 3px 10px;
+        border-bottom: 2px dotted #ddd;
+        &:hover {
+          background-color: #def;
+          text-decoration: none;
+        }
+        &:last-child {
+        }
+      }
+    }
+  }
+}
+
+.page {
+  position: relative;
+  margin-left: 180px;
+}
 .site-nav {
   float: right;
   line-height: 56px;

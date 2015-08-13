@@ -1,0 +1,12 @@
+<div class="site-menu">
+  <div class="title">
+    <a href="{{ lang.menu[0].page }}">
+      <img src="/img/twval-logo-128.png" width="128" height="128" />
+    </a>
+  </div>
+  <ul>
+  {% for item in lang.menu %}
+    <li><a href="{{ item.page }}">{{ item.label }}</a></li>
+  {% endfor %}
+  </ul>
+</div>

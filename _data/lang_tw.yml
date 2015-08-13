@@ -2,5 +2,9 @@
 title: TWVAL
 about: 關於我們
 menu:
+  - label: home
+    page: /
   - label: 關於我們
     page: /about
+  - label: 電子菸相關資訊
+    page: /info

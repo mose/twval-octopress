@@ -2,5 +2,9 @@
 title: TWVAL
 about: About Us
 menu:
+  - label: Home
+    page: /en
   - label: About Us
     page: /en/about
+  - label: eCig info
+    page: /en/info
