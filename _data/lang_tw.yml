@@ -13,6 +13,8 @@ menu:
     page: /quit
   - label: 鏈接
     page: /links
+  - label: Contact
+    page: /contact
 menu2:
   - label: Metals
     page: /metals

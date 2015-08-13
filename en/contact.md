@@ -13,7 +13,8 @@ Official communication
 <https://www.facebook.com/groups/434786276623765/>  
 General information
 
-We need your help!  If you can translate English to Chinese, please contact us at [info@twval.org][1].
+#### We need your help!
+If you can translate English to Chinese, please contact us at [info@twval.org][1].
 
 
 [1]: mailto:info@twval.org

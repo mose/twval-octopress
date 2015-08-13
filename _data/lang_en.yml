@@ -13,6 +13,8 @@ menu:
     page: /en/quit
   - label: Links
     page: /en/links
+  - label: Contact
+    page: /en/contact
 menu2:
   - label: Metals
     page: /en/metals
