@@ -8,5 +8,7 @@ menu:
     page: /en/about
   - label: eCig info
     page: /en/info
+  - label: Quit smoking
+    page: /en/quit
   - label: Study - Metals
     page: /en/metals

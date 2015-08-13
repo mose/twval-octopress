@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Quitting Smoking
+title: 戒菸
 lang: tw
 permalink: /quit/
 translation_id: 648eebae5b833857e0be9c1312fc7770
 ---
-
-菸品減害(Tobacco harm reduction)：戒菸 
 
 ## [7.0] 我打算完全戒菸，所以為何我要改用其他產品？
 
@@ -67,13 +65,9 @@ translation_id: 648eebae5b833857e0be9c1312fc7770
 您也可以這樣想，如果您持續抽菸是因為您不喜歡菸草產業因販售無煙菸草(ST)而獲利，然而事實上是，您還是在把您的錢給他們，並且持續傷害您的健康。
 
 
-參照
+## 參照
 
-    Tilashalski K, Rodu B, & Cole P. 2005. Seven year follow-up of smoking cessation with smokeless tobacco. Journal of Psychoactive Drugs 37: 105-108.Abstract.
-
-
+Tilashalski K, Rodu B, & Cole P. 2005. Seven year follow-up of smoking cessation with smokeless tobacco. Journal of Psychoactive Drugs 37: 105-108.Abstract.
 
 
---------------------------
-來源: http://twval.org/thr-quitting-smoking/
-本章節由 Scott Lu (nicesamlu@hotmail.com) 翻譯
+*translated by Scott Lu*

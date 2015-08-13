@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quitting Smoking
+title: Quit Smoking
 lang: en
 permalink: /en/quit/
 translation_id: 648eebae5b833857e0be9c1312fc7770

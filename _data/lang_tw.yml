@@ -8,5 +8,7 @@ menu:
     page: /about
   - label: 電子菸相關資訊
     page: /info
+  - label: 戒菸
+    page: /quit
   - label: Study - Metals
     page: /metals
