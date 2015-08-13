@@ -6,7 +6,7 @@ permalink: /en/metals/
 translation_id: 648eebae5b833857e0be9c1312fc7773
 ---
 
-Are Metals Emitted from Electronic Cigarettes a Reason for Health Concern? A Risk-Assessment Analysis of Currently Available Literature 
+## Are Metals Emitted from Electronic Cigarettes a Reason for Health Concern? A Risk-Assessment Analysis of Currently Available Literature 
 Konstantinos E. Farsalinos, Vassilis Voudris and Konstantinos Poulas
 
 ## Abstract

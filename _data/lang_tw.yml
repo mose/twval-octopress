@@ -2,7 +2,7 @@
 title: TWVAL
 about: 關於我們
 menu:
-  - label: home
+  - label: 主頁
     page: /
   - label: 關於我們
     page: /about
