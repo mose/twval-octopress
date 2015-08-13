@@ -56,7 +56,7 @@ Since those considering e-cigarettes are usually seeking to replace tobacco ciga
  
 One problem is that none of the tobacco flavors really taste like burning tobacco – they taste more like fresh tobacco smells and slightly sweet. So, experienced e-cigarette users will tell you that nothing tastes exactly like a burning tobacco cigarette. But, we know you won’t believe us and insist on buying something that looks and tastes like a tobacco cigarette. That’s ok – we’ve all been there!
  
-Read more: http://e-cigarette-forum.com
+Read more: <http://e-cigarette-forum.com>
 
 ## Can e-cigarettes help me quit smoking?
  
