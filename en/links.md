@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Are E-cigarettes Safer than Tobacco?
+title: Links
 lang: en
-permalink: /en/safer/
+permalink: /en/links/
 translation_id: 648eebae5b833857e0be9c1312fc7772
 ---
 

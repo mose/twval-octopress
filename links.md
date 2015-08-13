@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Are E-cigarettes Safer than Tobacco?
+title: 鏈接
 lang: tw
-permalink: /safer/
+permalink: /links/
 translation_id: 648eebae5b833857e0be9c1312fc7772
 ---
 
