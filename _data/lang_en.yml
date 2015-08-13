@@ -10,5 +10,8 @@ menu:
     page: /en/info
   - label: Quit smoking
     page: /en/quit
-  - label: Study - Metals
+  - label: Links
+    page: /en/links
+menu2:
+  - label: Metals
     page: /en/metals

@@ -10,5 +10,8 @@ menu:
     page: /info
   - label: 戒菸
     page: /quit
-  - label: Study - Metals
+  - label: 鏈接
+    page: /links
+menu2:
+  - label: Metals
     page: /metals
