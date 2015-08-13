@@ -63,6 +63,7 @@
   position: relative;
   margin-left: 180px;
   @include media-query($on-palm) {
+    position: relative;
     margin-left: 0;
   }
 }
@@ -206,5 +207,29 @@
     @include media-query($on-laptop) {
       font-size: 14px;
     }
+  }
+}
+
+.translation {
+  float: right;
+  margin-top: -30px;
+  a {
+    background-color: #ddd;
+    font-size: .8em;
+    padding: 5px 10px;
+    &:hover {
+      background-color: #000;
+      color: #fff;
+    }
+  }
+}
+
+.open {
+  display: none;
+  cursor: pointer;
+  position: absolute;
+  margin-top: -30px;
+  @include media-query($on-palm) {
+    display: block;
   }
 }
