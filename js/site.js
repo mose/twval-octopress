@@ -1,6 +1,5 @@
 var snapper = new Snap({
-  element: document.getElementById('menu'),
-
+  element: document.getElementById('menu')
 });
 
 var addEvent = function addEvent(element, eventName, func) {
