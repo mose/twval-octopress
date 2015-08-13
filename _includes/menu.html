@@ -9,4 +9,11 @@
     <li><a href="{{ item.page }}">{{ item.label }}</a></li>
   {% endfor %}
   </ul>
-</div>
+  <div class="title">
+    {{ lang.studies }}
+  </div>
+  <ul>
+  {% for item in lang.menu2 %}
+    <li><a href="{{ item.page }}">{{ item.label }}</a></li>
+  {% endfor %}
+  </ul></div>
