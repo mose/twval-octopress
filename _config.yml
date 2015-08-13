@@ -8,7 +8,7 @@ url: "http://localhost" # the base hostname & protocol for your site
 twitter: TaiwanVapeAL
 facebook: twval
 
-exclude: [ vendor, Gemfile, Gemfile.lock, README.md ]
+exclude: [ vendor, Gemfile, Gemfile.lock, README.md, deploy.sh ]
 
 
 # Build settings
