@@ -1,13 +1,10 @@
 ---
 layout: page
-title: Metals Emitted from Electronic Cigarettes
+title: Are Metals Emitted from Electronic Cigarettes a Reason for Health Concern? A Risk-Assessment Analysis of Currently Available Literature
 lang: en
 permalink: /en/metals/
 translation_id: 648eebae5b833857e0be9c1312fc7773
 ---
-
-## Are Metals Emitted from Electronic Cigarettes a Reason for Health Concern? A Risk-Assessment Analysis of Currently Available Literature 
-Konstantinos E. Farsalinos, Vassilis Voudris and Konstantinos Poulas
 
 ## Abstract
 
@@ -21,5 +18,6 @@ The average daily exposure from 13 EC products was 2.6 to 387 times lower than t
 
 Significant differences in emissions between products were observed. Conclusions: Based on currently available data, overall exposure to metals from EC use is not expected to be of significant health concern for smokers switching to EC use, but is an unnecessary source of exposure for never-smokers. Metal analysis should be expanded to more products and exposure can be further reduced through improvements in product quality and appropriate choice of materials.
 
-### Source
-- [[http://www.mdpi.com/1660-4601/12/5/5215]]
+## Source
+<http://www.mdpi.com/1660-4601/12/5/5215>  
+*Konstantinos E. Farsalinos, Vassilis Voudris and Konstantinos Poulas*

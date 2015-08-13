@@ -6,9 +6,6 @@ permalink: /metals/
 translation_id: 648eebae5b833857e0be9c1312fc7773
 ---
 
-## 電子煙散發的金屬物質會是一項健康的隱憂嗎？由現在可得的文獻所作的危險研究分析：
-（Konstantinos E. Farsalinos, Vassilis Voudris and Konstantinos Poulas）
-
 ## 摘要
 
 ### 背景：
@@ -20,5 +17,6 @@ translation_id: 648eebae5b833857e0be9c1312fc7773
 基於目前為止可得到的資料，對從吸菸者轉換成電子煙使用者而言，是否會因為暴露於重金屬而對健康造成隱憂並不特別明顯。然而對於從不吸菸的人來說，的確是增加了一種不必要的風險。  
 我們認為對於這種金屬的分析研究應該擴及至更多的產品，而也希望未來隨著產品的品質與選用材質的進步，可以降低重金屬的散發量。
 
-### Source
-- <http://www.mdpi.com/1660-4601/12/5/5215>
+## Source
+<http://www.mdpi.com/1660-4601/12/5/5215>  
+*Konstantinos E. Farsalinos, Vassilis Voudris and Konstantinos Poulas*
