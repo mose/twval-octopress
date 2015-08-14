@@ -17,4 +17,8 @@ menu:
     page: /en/contact
 menu2:
   - label: Metals
-    page: /en/metals
+    page: /en/study-metals
+  - label: Aerosols
+    page: /en/study-aerosols
+  - label: Aldehydes
+    page: /en/study-aldehydes

@@ -2,7 +2,7 @@
 layout: page
 title: 電子煙散發的金屬物質會是一項健康的隱憂嗎？由現在可得的文獻所作的危險研究分析
 lang: tw
-permalink: /metals/
+permalink: /study-metals/
 translation_id: 648eebae5b833857e0be9c1312fc7773
 ---
 
