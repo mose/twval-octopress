@@ -3,6 +3,7 @@ layout: page
 title: 菸品減害(THR) 問題集
 lang: tw
 permalink: /thr-faq/
+translation_id: 08908c2f2c945c922b30570f4803d51a
 ---
 ## [1.0] 什麼是菸品減害(THR)? – 只要能夠降低因使用菸品或是尼古丁所產生的危害的物品/方法均屬之。
 

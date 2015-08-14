@@ -3,6 +3,7 @@ layout: page
 title: Tobacco Harm Reduction FAQ
 lang: en
 permalink: /en/thr-faq/
+translation_id: 08908c2f2c945c922b30570f4803d51a
 ---
 
 ## [1.0] What is Tobacco Harm Reduction? – Anything that decreases the risks from using tobacco or nicotine.
