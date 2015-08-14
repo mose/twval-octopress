@@ -11,6 +11,8 @@ menu:
     page: /info
   - label: 戒菸
     page: /quit
+  - label: 菸品減害問題集
+    page: /thr-faq
   - label: 鏈接
     page: /links
   - label: Contact

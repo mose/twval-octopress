@@ -11,6 +11,8 @@ menu:
     page: /en/info
   - label: Quit smoking
     page: /en/quit
+  - label: THR FAQ
+    page: /en/thr-faq
   - label: Links
     page: /en/links
   - label: Contact
