@@ -22,17 +22,20 @@
   }
 }
 .site-menu {
-  position: relative;
+  position: absolute;
   display: inline-block;
   height: 100%;
   float: left;
   width: 150px;
-  margin-top: -30px;
-  padding-top: 20px;
+  padding-top: 10px;
   border-right: 2px dotted #ccc;
-
+  z-index: 1;
+  background-color: #fff;
   .title {
     text-align: center;
+    @include media-query($on-palm) {
+      display: none;
+    }
   }
 
   ul {
@@ -54,13 +57,13 @@
     }
   }
   @include media-query($on-palm) {
-    position: absolute;
     display: none;
+    left: 0;
   }
 }
 
 .page {
-  position: relative;
+  position: absolute;
   margin-left: 180px;
   @include media-query($on-palm) {
     position: relative;
@@ -98,34 +101,6 @@
   float: left;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
-}
-
-.footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
-}
-
-@include media-query($on-laptop) {
-  .footer-col-1,
-  .footer-col-2 {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
-  }
-
-  .footer-col-3 {
-    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
-  }
 }
 
 @include media-query($on-palm) {
@@ -238,4 +213,11 @@
   @include media-query($on-palm) {
     display: block;
   }
+}
+
+
+.snapjs-left .site-menu {
+  display: block;
+  right: 0;
+  left: 0;
 }

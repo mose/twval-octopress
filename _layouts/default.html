@@ -4,20 +4,20 @@
   {% include head.html %}
 
   <body>
+    {% include menu.html %}
 
     <div class="page-content">
       <div class="wrapper">
        <a class="open" id="open-left">
          menu
        </a>
-        {% include menu.html %}
         <div class="page">
           {{ content }}
+          {% include footer.html %}
         </div>
       </div>
     </div>
 
-    {% include footer.html %}
 
     <script src="/js/snap.min.js"></script>
     <script src="/js/site.js"></script>
