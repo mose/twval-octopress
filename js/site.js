@@ -1,5 +1,7 @@
 var snapper = new Snap({
-  element: document.getElementById('menu')
+  element: document.getElementById('menu'),
+  maxPosition: 10,
+  minPosition: -160,
 });
 
 var addEvent = function addEvent(element, eventName, func) {
@@ -12,6 +14,10 @@ var addEvent = function addEvent(element, eventName, func) {
 
 addEvent(document.getElementById('open-left'), 'click', function(){
   snapper.open('left');
+});
+
+addEvent(document.getElementById('close-left'), 'click', function(){
+  snapper.close();
 });
 
 /* Prevent Safari opening links when viewing as a Mobile App */

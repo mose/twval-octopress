@@ -1,9 +1,11 @@
-<div class="drawers">
-<div class="site-menu left-drawer" id="menu">
+<div class="site-menu" id="menu">
   <div class="title">
     <a href="{{ lang.menu[0].page }}">
       <img src="/img/twval-logo-128.png" width="128" height="128" />
     </a>
+  </div>
+  <div class="close">
+    <span id="close-left">close</span>
   </div>
   <ul>
   {% for item in lang.menu %}
@@ -18,5 +20,4 @@
     <li><a href="{{ item.page }}">{{ item.label }}</a></li>
   {% endfor %}
   </ul>
-</div>
 </div>

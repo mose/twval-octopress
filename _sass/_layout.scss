@@ -31,6 +31,7 @@
   border-right: 2px dotted #ccc;
   z-index: 1;
   background-color: #fff;
+  transition: all 0.3s ease; 
   .title {
     text-align: center;
     @include media-query($on-palm) {
@@ -59,6 +60,11 @@
   @include media-query($on-palm) {
     display: none;
     left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #eee;
+    transform: translate3d(-266px, 0px, 0px);
   }
 }
 
@@ -220,4 +226,17 @@
   display: block;
   right: 0;
   left: 0;
+}
+
+.close {
+  display: none;
+  #close-left {
+    cursor: pointer;
+    background-color: #ddd;
+    font-size: .8em;
+    padding: 5px 10px;
+  }
+  @include media-query($on-palm) {
+    display: block;
+  }
 }
