@@ -10,7 +10,17 @@
 
     <div class="footer-col">
       <ul class="social-media-list">
-        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        <li>
+          <a href="mailto:{{ site.email }}">
+            <span class="icon">
+              <svg viewBox="0 0 16 16" width="16" height="16">
+                <path fill="#828282" d="M 0,3 L 15,3 L 15,13 L 0,13z"/>
+                <path stroke="#ffffff" stroke-width="1" stroke-linejoin="round" d="M 0,4 L 7,9 L 15,4"/>
+              </svg>
+            </span>
+            <span class="username">{{ site.email }}</span>
+          </a>
+        </li>
         {% if site.twitter %}
         <li>
           <a href="https://twitter.com/{{ site.twitter }}">
