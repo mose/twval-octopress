@@ -18,5 +18,7 @@ menu:
   - label: Contact
     page: /contact
 menu2:
-  - label: Metals
+  - label: 金屬物質
     page: /study-metals
+  - label: 氣溶膠
+    page: /study-aerosols
