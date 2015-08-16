@@ -3,6 +3,7 @@ layout: page
 title: Development of an in vitro cytotoxicity model for aerosol exposure using 3D reconstructed human airway tissue; application for assessment of e-cigarette aerosol
 lang: en
 permalink: /en/study-aerosols/
+translation_id: 15d690e4791245fc60bae9c6178dc399
 ---
 
 ## Highlights
@@ -19,4 +20,5 @@ Development of physiologically relevant test methods to analyse potential irrita
 
 ## Source
 
-<http://www.sciencedirect.com/science/article/pii/S0887233315001228>
+<http://www.sciencedirect.com/science/article/pii/S0887233315001228>  
+*Louise Neilsona, Courtney Mankusb, David Thornea, George Jacksonb, Jason DeBayb, Clive Mereditha*

@@ -1,6 +1,6 @@
 var snapper = new Snap({
   element: document.getElementById('menu'),
-  maxPosition: 10,
+  maxPosition: 1,
   minPosition: -160,
 });
 
