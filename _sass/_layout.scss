@@ -222,7 +222,6 @@
   }
 }
 
-
 .snapjs-left .site-menu {
   display: block;
   right: 0;
@@ -240,4 +239,35 @@
   @include media-query($on-palm) {
     display: block;
   }
+}
+
+.homelinks {
+  position: relative;
+  margin: 0 -10px;
+  .linkblock {
+    float: left;
+    width: 162px;
+    border: 1px solid #bbb;
+    margin: 10px;
+    border-radius: 3px;
+    h2 {
+      padding: 10px;
+      font-size: 18px;
+      text-align: center;
+    }
+    .linkinfo {
+      padding: 10px;
+    }
+    .linkmore {
+      a {
+        display: block;
+        background-color: #bbb;
+        text-align: center;
+        padding: 10px;
+        text-transform: uppercase;
+
+      }
+    }
+  }
+  @extend %clearfix;
 }
